@@ -11,10 +11,6 @@ DocumentGPT is a web application that allows you to chat over your research docu
 - Perform Google/YouTube search within the app and get auto identified search suggestions.
 - Verify sources for all generated results.
 
-## Demo Preview
-  
-https://github.com/aju22/DocumentGPT/assets/72931799/d8b7d386-d379-4439-a260-9db5f8d3da2b
-
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/your-username/DocumentGPT.git`
@@ -23,7 +19,7 @@ https://github.com/aju22/DocumentGPT/assets/72931799/d8b7d386-d379-4439-a260-9db
 4. Run the application: `streamlit run main.py`
 5. Access the web app in your browser at `http://localhost:8501`.
 
- ## Presently Available Tools
+## Presently Available Tools
 
 - ✅**Vector Database Retreival Tool**: Finds answers from vector database.
 
@@ -45,8 +41,7 @@ Here are some areas for further improvement in DocumentGPT:
 You can try out the chatbot by visiting the deployed app on Streamlit Cloud:
 [Deployed App](https://documentgpt.streamlit.app/)
 
-*Note: Unfortunately PDF Display works fine locally, but in the deployed app only works on certain browsers like Safari, Firefox :(*
-
+_Note: Unfortunately PDF Display works fine locally, but in the deployed app only works on certain browsers like Safari, Firefox :(_
 
 ## Contributing
 
